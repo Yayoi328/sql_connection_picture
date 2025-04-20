@@ -42,7 +42,6 @@ ORDER BY orders.order_date DESC
 - 基本的SELECT语句
 - 包含JOIN子句的查询
 - 包含WHERE条件的查询
-- 带有表别名的查询
 
 ## 浏览器兼容性
 
